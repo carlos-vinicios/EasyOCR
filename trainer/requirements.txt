@@ -1,0 +1,6 @@
+pandas
+torch
+jupyter
+numpy
+natsort
+nltk

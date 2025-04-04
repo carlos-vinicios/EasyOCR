@@ -1,0 +1,11 @@
+black
+opencv-python
+Pillow
+Polygon3
+PyYAML
+scikit-image
+Shapely
+torch
+torchvision
+wandb
+tqdm
