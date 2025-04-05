@@ -163,7 +163,8 @@ class Reader(object):
                     recog_network = 'generation2'
                 else:
                     self.model_lang = 'latin'
-                    model = recognition_models['gen2']['latin_g2']
+                    #modificando para o peso ajustado
+                    model = recognition_models['gen2']['latin_b3']
                     recog_network = 'generation2'
             self.character = model['characters']
 
